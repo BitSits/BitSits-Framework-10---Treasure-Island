@@ -7,10 +7,8 @@ Link to [compo entry](http://www.ludumdare.com/compo/ludum-dare-19/?action=rate&
 
 Download Executable
 ---
-[Treasure Island 1.2.zip (3.14 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Treasure%20Island%201.2.zip)
-
-[Treasure Island.zip (3.13 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Treasure%20Island.zip)
-[Treasure Island (Source)](https://github.com/BitSits/BitSits-Framework---Treasure-Island)
+[Treasure Island.zip (3.85 MB)](https://github.com/BitSits/Squares-vs-Triangles/raw/master/Windows%20Phone%20App/Squares%20Vs%20Triangles.zip)
+[Treasure Island (Source)](https://github.com/BitSits/BitSits-Framework-10---Treasure-Island)
 
 
 Instructions
