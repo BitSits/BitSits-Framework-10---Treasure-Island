@@ -7,9 +7,9 @@ Link to [compo entry].
 Screenshots
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island/master/Blog/Treasure%20Island1.png)
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island/master/Blog/Treasure%20Island2.png)
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island/master/Blog/Treasure%20Island3.png)
+![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/Treasure%20Island1.png)
+![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/Treasure%20Island2.png)
+![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/Treasure%20Island3.png)
 
 Download Executable
 ---
@@ -20,9 +20,9 @@ Download Executable
 
 Instructions
 ---
-Use WASD or arrow keys to move around. Collect as many treasure chest as you can. Find the cross mark to go to the next level. To move to the next island use the boat.
+Use <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> or <kbd>arrow</kbd> keys to move around. Collect as many treasure chest as you can. Find the cross mark to go to the next level. To move to the next island use the boat.
 
-Esc for help and pause screen.
+<kbd>Esc</kbd> for help and pause screen.
 
 
 Troubleshooting
@@ -48,7 +48,7 @@ Credits
 License
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island/master/Blog/cc.png)
+![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -71,7 +71,7 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 
 [Ludum Dare]: http://www.ludumdare.com/compo/
 [compo entry]: http://www.ludumdare.com/compo/ludum-dare-19/?action=rate&uid=3361
-[zip]: https://github.com/Bitsits/Squares-vs-Triangles/raw/master/Windows%20Phone%20App/Squares%20Vs%20Triangles.zip
+[zip]: https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island.zip
 [source]: https://github.com/Bitsits/BitSits-Framework-10---Treasure-Island
 
 [Blogger](https://bitsits.blogspot.com/2010/12/treasure-island.html)
