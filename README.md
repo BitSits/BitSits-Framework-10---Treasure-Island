@@ -54,8 +54,7 @@ Credits
 
 License
 ---
-
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/cc.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
