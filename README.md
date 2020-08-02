@@ -1,3 +1,5 @@
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island%20Mobile%20Small.png)
+
 Treasure Island
 ===
 Entry for the 19th [Ludum Dare] 48 hour solo game development competition.
@@ -6,10 +8,15 @@ Link to [compo entry].
 
 Screenshots
 ---
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island%20Screenshot%201.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island%20Screenshot%202.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island%20Screenshot%203.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island%20Screenshot%204.png)
 
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/Treasure%20Island1.png)
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/Treasure%20Island2.png)
-![](https://raw.githubusercontent.com/Bitsits/Treasure-Island-Assets/master/Blog/Treasure%20Island3.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island%20Screenshot%205.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island%20Screenshot%206.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island%20Screenshot%207.png)
+![](https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island%20Screenshot%208.png)
 
 Download Executable
 ---
@@ -72,7 +79,7 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 [Ludum Dare]: http://www.ludumdare.com/compo/
 [compo entry]: http://www.ludumdare.com/compo/ludum-dare-19/?action=rate&uid=3361
 [zip]: https://github.com/Bitsits/Treasure-Island-Assets/raw/master/Windows%20Phone%20App/Treasure%20Island.zip
-[source]: https://github.com/Bitsits/BitSits-Framework-10---Treasure-Island
+[source]: https://github.com/Bitsits/Treasure-Island-WP7
 
 [Blogger](https://bitsits.blogspot.com/2010/12/treasure-island.html)
 [Tumblr](https://bitsits.tumblr.com/post/96206086005/ludum-dare-19-6min-before-dead-line-did-it-at)
